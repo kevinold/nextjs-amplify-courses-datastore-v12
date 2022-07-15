@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextcoursesdsv12-dev-161940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::074128318641:role/amplify-nextcoursesdsv12-dev-161940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::074128318641:role/amplify-nextcoursesdsv12-dev-161940-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-nextcoursesdsv12-dev-161940-deployment",
+      "UnauthRoleName": "amplify-nextcoursesdsv12-dev-161940-unauthRole",
+      "StackName": "amplify-nextcoursesdsv12-dev-161940",
+      "StackId": "arn:aws:cloudformation:us-west-2:074128318641:stack/amplify-nextcoursesdsv12-dev-161940/d8532d30-0483-11ed-82cb-0291d41fd5bf",
+      "AmplifyAppId": "ddltoemoleyvk"
+    }
+  }
+}
